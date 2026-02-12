@@ -14,12 +14,18 @@ Je m’intéresse au développement web, à l’analyse de données et à la cr�
 
 ---
 
-##  Projet mis en valeur
+## Projet principal
 
-### Site de réservation de cinéma
-Application web permettant aux utilisateurs de consulter les films, choisir une séance et réserver des places.
+###  Site de Réservation de Cinéma
 
- Voir le projet ici : (https://github.com/kenarole/Revue-Code-UA3)
+Application web permettant aux utilisateurs de :
+- Consulter les films disponibles
+- Sélectionner une séance
+- Réserver des places
+- Visualiser les sièges disponibles
+
+ Voir le projet : https://github.com/tadoumkam237-créer/site-reservation-cinema
+
 
 ---
 
